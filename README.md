@@ -1,5 +1,5 @@
-### Hi there 👋
-## Mechanical engineer and CAE
+## Hi there 👋
+### Mechanical engineer and CAE
 
 my name is Hans-Martin from germany. I am a mechnaical engineer with a focus on applied CFD and data analysis wth an interest in Machine Learning.
 
